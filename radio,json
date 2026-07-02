@@ -1,0 +1,24 @@
+{
+  "stations": [
+    {
+      "name": "TikTok Hits",
+      "url": "https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac"
+    },
+    {
+      "name": "DJ Baru",
+      "url": "https://stream.zeno.fm/iwcyhq56nwiuv"
+    },
+    {
+      "name": "Andika FM",
+      "url": "http://andikafm.onlivestreaming.net:1057/stream"
+    },
+    {
+      "name": "Suara Surabaya",
+      "url": "https://c5.siar.us/proxy/ssfm/stream"
+    },
+    {
+      "name": "Radio Baru Saya (Ganti Namanya)",
+      "url": "http://link-radio-baru-anda.com/stream"
+    }
+  ]
+}
