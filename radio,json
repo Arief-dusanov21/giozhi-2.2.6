@@ -1,10 +1,6 @@
 {
   "stations": [
     {
-      "name": "TikTok Hits",
-      "url": "https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac"
-    },
-    {
       "name": "DJ Baru",
       "url": "https://stream.zeno.fm/iwcyhq56nwiuv"
     },
@@ -15,6 +11,10 @@
     {
       "name": "Suara Surabaya",
       "url": "https://c5.siar.us/proxy/ssfm/stream"
+    },
+    {
+      "name": "GEMINI 101 FM mataram"
+      "url": "https://relay.gemini101fm.com/listen/gemini_fm/radio.mp3"
     },
     {
       "name": "Radio Baru Saya (Ganti Namanya)",
