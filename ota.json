@@ -1,7 +1,7 @@
 {
-     "firmware": {
-       "version": "2.2.6",
-       "url": "https://github.com/Arief-dusanov21/giozhi-2.2.6/commits?author=Arief-dusanov21",
-       "force": 1
-     }
-   }
+  "firmware": {
+    "version": "2.2.6",
+    "url": "https://raw.githubusercontent.com/Arief-dusanov21/giozhi-2.2.6/main/xiaozhi.bin",
+    "force": 1
+  }
+}
