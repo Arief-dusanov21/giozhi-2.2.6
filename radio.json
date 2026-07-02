@@ -13,12 +13,12 @@
       "url": "https://c5.siar.us/proxy/ssfm/stream"
     },
     {
-      "name": "GEMINI 101 FM mataram",
-      "url": "https://relay.gemini101fm.com/listen/gemini_fm/radio.mp3"
+      "name": "Elshinta FM Jakarta",
+      "url": "https://stream-ssl.arenastreaming.com:8000/jakarta"
     },
     {
-      "name": "Radio Baru Saya (Ganti Namanya)",
-      "url": "http://link-radio-baru-anda.com/stream"
+      "name": "GEMINI 101 FM mataram",
+      "url": "https://relay.gemini101fm.com/listen/gemini_fm/radio.mp3"
     }
   ]
 }
