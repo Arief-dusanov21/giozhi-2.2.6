@@ -1,0 +1,7 @@
+{
+     "firmware": {
+       "version": "2.2.6",
+       "url": "https://URL-LANGSUNG-FIRMWARE-BIN-ANDA-DI-GITHUB.bin",
+       "force": 1
+     }
+   }
