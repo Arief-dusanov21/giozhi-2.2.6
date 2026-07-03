@@ -9,12 +9,28 @@
       "url": "http://andikafm.onlivestreaming.net:1057/stream"
     },
     {
-      "name": "Suara Surabaya",
-      "url": "https://c5.siar.us/proxy/ssfm/stream"
+      "name": "Radio Losta FM Blitar 89.2 MHz",
+      "url": "https://stream.zeno.fm/ar3nv92ahfhvv"
     },
     {
       "name": "Elshinta FM Jakarta",
       "url": "https://stream-ssl.arenastreaming.com:8000/jakarta"
+    },
+    {
+      "name": "Prambors FM",
+      "url": "https://stream.rcs.revma.com/h77wwp48kxcwv"
+    },
+    {
+      "name": "101 Jak FM Streaming Online – Jakarta",
+      "url": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8"
+    },
+    {
+      "name": "Elgangga FM",
+      "url": "https://b.alhastream.com:5140/radio"
+    },
+    {
+      "name": "Mettaswara Java",
+      "url": "https://mettaswara.com:8700//java"
     },
     {
       "name": "GEMINI 101 FM mataram",
