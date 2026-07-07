@@ -21,16 +21,24 @@
       "url": "https://play.ilovemusic.de/ilm_ilovetop100charts/"
     },
     {
-      "name": "Radio Suara Al-Iman 846 AM Surabaya",
-      "url": "https://radioislamindonesia.com/aliman.mp3"
+      "name": "Sonora 92.0 FM Jakarta",
+      "url": "https://sonora-radio.arenastreaming.com/8130/stream"
     },
     {
-      "name": "Suara Pasuruan",
-      "url": "https://radiostream.pasuruankab.go.id/?type=https"
+      "name": "Nusa FM Yogyakarta",
+      "url": "https://stream.zeno.fm/n5tergcf4v8uv"
     },
     {
       "name": "Suara Giri FM",
       "url": "http://streaming.girifm.com:8010/;stream.nsv//java"
+    },
+    {
+      "name": "global radio jakarta",
+      "url": "http://202.147.199.98/;?1737921496499"
+    },
+    {
+      "name": "Radio Sayang Quran",
+      "url": "https://radio.sayangquran.com/listen/radiosq/radio.mp3"
     },
     {
       "name": "GEMINI 101 FM mataram",
