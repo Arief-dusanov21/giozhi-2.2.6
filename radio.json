@@ -33,12 +33,16 @@
       "url": "https://server.radioimeldafm.co.id:8040/gajahmadafm"
     },
     {
-      "name": "Joss 885 AM JOGJA",
-      "url": "https://stream.swadesifm.com/radio/8000/radio.mp3"
+      "name": "Radio Gentara",
+      "url": "https://stream-n1.gntr.net/listen/radio_gentara/gentara.mp3"
     },
     {
       "name": "Koplo FM",
       "url": "https://stream.zeno.fm/uvlmugvqrnkvv"
+    },
+    {
+      "name": "The Rock! (Hard Rock)",
+      "url": "https://listen.181fm.com/181-hardrock_128k.mp3"
     },
     {
       "name": "Suara Giri FM",
